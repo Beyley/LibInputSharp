@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibInputSharp", "LibInputSharp\LibInputSharp.csproj", "{CE7C5B95-A4EB-4A69-9329-19502B209A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibInputSharp.Test", "LibInputSharp.Test\LibInputSharp.Test.csproj", "{B6238A82-C2C0-44A9-85A8-EFDE79E35446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE7C5B95-A4EB-4A69-9329-19502B209A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7C5B95-A4EB-4A69-9329-19502B209A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7C5B95-A4EB-4A69-9329-19502B209A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7C5B95-A4EB-4A69-9329-19502B209A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6238A82-C2C0-44A9-85A8-EFDE79E35446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6238A82-C2C0-44A9-85A8-EFDE79E35446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6238A82-C2C0-44A9-85A8-EFDE79E35446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6238A82-C2C0-44A9-85A8-EFDE79E35446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
